@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **Flutter, Java, Python, Cybersecurity**
 
-- 📫 How to reach me **lolageomkar5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omkar-lolage-2135vo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-lolage-2135vo" height="30" width="40" /></a>
 <a href="https://instagram.com/omkar.lolage21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/omkar.lolage21" height="30" width="40" /></a>
+<a href="mailto:lolageomkar5@gmail.com"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" style="max-width: 100"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
