@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omkar Lolage</h1>
-<h3 align="center">A passionate developer from India. I am Web and Java Enthusiast.</h3>
+<p>I am a skilled developer and a curious learner based in Pune, India. 🚀 I have a passion for creating beautiful and interactive applications with modern technologies and frameworks. I always aim to achieve high standards of quality, security, and performance in every project I work on. 🛠️
+  
+In addition to web development, I have a strong interest and knowledge in **Flutter**, **Cybersecurity**, and **Java**. I like to challenge myself and learn new things in the field of software engineering and apply my skills to real-world scenarios. 🌐 
+
+Currently, **I'm a student at VIT College in Pune**, India 🎓, where I continue to learn and grow in the world of technology. I'm always open to new opportunities and collaborations that will help me develop as a developer and a human being. 🌟
+
+If you have any cool projects or ideas that you want to collaborate on, please feel free to contact me! 🤝 Let's code and innovate together! 🚀💻
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarlolage21&label=Profile%20views&color=0e75b6&style=flat" alt="omkarlolage21" /> </p>
 
@@ -7,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java, React, Angular**
 
-- 💬 Ask me about **Flutter, Java, Python, Cybersecurity**
+- 💬 Ask me about **Flutter, Java, Cybersecurity**
 
 
 <h3 align="left">Connect with me:</h3>
