@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img width="1170" height="348" alt="image" src="https://github.com/user-attachments/assets/55a0ada9-02e6-4c46-82ef-2418e6934896" />
+![LinkedIn Banner (10)](https://github.com/user-attachments/assets/db2fb49d-bdc0-499b-b21e-52ef43ecec2f)
+
 
 
 <!-- Typing Animation -->
