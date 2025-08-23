@@ -83,6 +83,7 @@
 - **[HackoNexus](https://github.com/OmkarLolage21/Hack-O-Nexus)** – Microservices hackathon portal with Spring Cloud & Docker.
 - **[Roameo – AI Travel Solution](https://github.com/OmkarLolage21/Roameo-An-AI-Agents-based-Travel-Solution)** – AI agents for itinerary generation & booking.
 - **[Cirrhologix](https://omkar-datascience-projects.shinyapps.io/Liver-Cirrhosis-Predictor/)** – R & ShinyApp-based liver cirrhosis predictor.
+- **[Policy Recommendation](https://github.com/OmkarLolage21/Policy-Recommendations-using-TwoTowerNN-and-Heuristics)** - SBI Life Hack-AI-Thon Winner Project
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000px"/>
 
