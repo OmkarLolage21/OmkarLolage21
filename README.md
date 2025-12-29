@@ -17,7 +17,7 @@
 🚀 Skilled in building **scalable, secure, and high-performance applications**.  
 ☁️ Experienced in **Cloud, DevOps, AI, and Data Engineering**.  
 🏆 **Multi-hackathon winner** & **Barclays Hack-O-Hire’24 finalist**.  
-🎓 Pursuing **B.Tech in Computer Engineering** at VIT Pune (CGPA: 9.12/10).  
+🎓 Pursuing **B.Tech in Computer Engineering** at VIT Pune (CGPA: 9.18/10).  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000px"/>
 
@@ -90,12 +90,6 @@
 - **[Policy Recommendation](https://github.com/OmkarLolage21/Policy-Recommendations-using-TwoTowerNN-and-Heuristics)** - SBI Life Hack-AI-Thon Winner Project
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000px"/>
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OmkarLolage21&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OmkarLolage21&theme=tokyonight&hide_border=true" height="165">
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000px"/>
 
